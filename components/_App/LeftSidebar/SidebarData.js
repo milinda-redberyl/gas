@@ -22,7 +22,7 @@ export const SidebarData = [
     icon: <GridViewIcon />,
   },    
   {
-    title: "Gas stations",
+    title: "Gas station",
     path: "/contact-list/",
     icon: <PostAddIcon />,
     iconClosed: <KeyboardArrowRightIcon />,
